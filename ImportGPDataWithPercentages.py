@@ -2,6 +2,7 @@
 #Quarterly publications in January, April, July and October will include Lower Layer Super Output Area (LSOA) populations
 #Source ZIP file can be downloaded here https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice
 
+#Connect to AGOL
 from arcgis.gis import GIS
 gis = GIS("home")
 
