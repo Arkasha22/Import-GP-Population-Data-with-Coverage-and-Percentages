@@ -1,4 +1,4 @@
-#GP Populations LSOA Ingestion file created by Donald Maruta, Senior Geospatial Manager, NCL ICB, 28 May 24
+#GP Populations LSOA Ingestion file created by Donald Maruta - 28 May 24
 #Quarterly publications in January, April, July and October will include Lower Layer Super Output Area (LSOA) populations
 #Source ZIP file can be downloaded here https://digital.nhs.uk/data-and-information/publications/statistical/patients-registered-at-a-gp-practice
 
